@@ -1,4 +1,4 @@
-module github.com/rosedblabs/rosedb
+module github.com/Novicehood/woodb
 
 go 1.21
 
